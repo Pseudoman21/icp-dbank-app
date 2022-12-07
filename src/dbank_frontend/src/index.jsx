@@ -1,10 +1,11 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import Greeting from "./Greeting";
+import DBankForm from "./Components/DBankForm";
+import '../assets/main.css'
 
 const App = () => {
  return (
-  <Greeting />
+  <DBankForm />
  )
 };
 
