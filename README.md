@@ -6,5 +6,4 @@ Its frontend is created using ReactJs
 Visit:
 https://4armf-oqaaa-aaaak-qbknq-cai.ic0.app
 
-![image](https://user-images.githubusercontent.com/48127785/206113774-e5d2ac8b-8ae6-48b0-a1f4-a5383191f609.png)
-
+![image](https://user-images.githubusercontent.com/48127785/206212318-a8830ef7-60ce-498f-bef2-2dbf50a8e1a1.png)
