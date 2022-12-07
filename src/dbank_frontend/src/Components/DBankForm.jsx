@@ -52,7 +52,7 @@ const DBankForm = () => {
           }} step="0.01" min="0" />
         </div>
         <div className='inp-area'>
-          <label>Ammount to Withdraw</label>
+          <label>Amount to Withdraw</label>
           <input type='text' onChange={(e) => {
             setWithdrawAmount(e.target.value)
           }} step="0.01" min="0" />
